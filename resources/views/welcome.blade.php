@@ -24,7 +24,7 @@
       <div class="row">
 
         <!--<img src="{{ asset('public/images/Layer 48.png') }}" alt="">-->
-        <h3>Play for 200 or more, Win 50 instant cash</h3>
+        <h4>Play for 200 or more, Win 50 instant cash</h4>
         <div class="lg">
           <div class="row">
             <div class="col-md-6">
